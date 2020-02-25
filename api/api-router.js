@@ -1,3 +1,4 @@
+/* jshint esversion: 6 */
 const bcrypt = require("bcryptjs");
 const router = require("express").Router();
 
